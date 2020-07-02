@@ -4,12 +4,13 @@ Countdown Timers.
 This app was built for educational purpose.
 
 Installation and running instruction:
-  1. Clone repository with <code style="background:lightgrey">git clone https://github.com/dovzhnyi-denis/countdown-timers.git</code>
-  2. Enter project directory.
-  3. Execute commands:
+<ul>
+  <li>1. Clone repository with <code style="background:lightgrey">git clone https://github.com/dovzhnyi-denis/countdown-timers.git</code></li>
+  <li>2. Enter project directory.</li>
+  <li>3. Execute commands:
     <code style="background:lightgrey">npm i</code>,
-    <code style="background:lightgrey">npx serve -s build</code>
-
+    <code style="background:lightgrey">npx serve -s build</code></li>
+</ul>
 Features:
   1. User can select a future date and set a name for a timer, unique name is required.
   2. After clicking Add Countdown a new countdown timer will appear with name and years/months/days/hours/minutes/seconds left to the specified date.
