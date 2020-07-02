@@ -4,7 +4,7 @@ Countdown Timers.
 This app was built for educational purpose.
 
 Installation and running instruction:
-  1. Clone repository with <code style="background:lightgrey">git clone </code>
+  1. Clone repository with <code style="background:lightgrey">git clone https://github.com/dovzhnyi-denis/countdown-timers.git</code>
   2. Enter project directory.
   3. Execute commands:
     <code style="background:lightgrey">npm i</code>,
