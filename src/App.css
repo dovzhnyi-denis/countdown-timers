@@ -1,0 +1,48 @@
+.invalid-name {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.name {
+  font: italic bold 30px "Times New Roman", sans-serif;
+  color: white;
+}
+
+.countdown-item {
+  color: white;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 30px;
+  margin: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+.countdown-item span {
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.countdown-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+
+.main-bar-h {
+  height: 80px;
+}
+
+.main-bar {
+  z-index: 1;
+}
