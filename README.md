@@ -1,7 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <h2>Countdown Timers.</h2>
-This app was built for educational purpose.
+Simple app for setting up countdowns for important events.
 
 Installation and running instruction:
 <ul>
