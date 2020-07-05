@@ -1,5 +1,5 @@
 <h2>Countdown Timers.</h2>
-Simple app for setting up countdowns for important events.
+<p>Simple app for setting up countdowns for important events.</p>
 
 Installation and running instruction:
 <ul>
