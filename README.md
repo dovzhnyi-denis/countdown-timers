@@ -1,7 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <h2>Countdown Timers.</h2>
-This app was built for educational purpose.
+<p>Simple app for setting up countdowns for important events.</p>
 
 Installation and running instruction:
 <ul>
@@ -19,7 +17,7 @@ Features:
 <ul>
   <li>User can select a future date and set a name for a timer, unique name is required;</li>
   <li>After clicking Add Countdown a new countdown timer will appear with name and years/months/days/hours/minutes/seconds left to the specified date;</li>
-  <li>There will be a filling circle filling around each item, except for years, in order to add extra visualization;</li>
+  <li>For extra visualization there will be a filling circle filling around each item, except for years;</li>
   <li>Once the countdown reaches 0 it will be automatically removed;</li>
   <li>User can optionally remove countdown by clicking at "X" in the top-right corner of the countdown element;</li>
   <li>There is no limit on how many countdowns can be added;</li>
