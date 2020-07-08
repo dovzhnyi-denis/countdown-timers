@@ -15,12 +15,12 @@ Installation and running instruction:
 
 Features:
 <ul>
-  <li>User can select a future date and set a name for a timer, unique name is required;</li>
+  <li>Countdown timer can be added with name and custom date, both fields are required, unique name is required;</li>
   <li>After clicking Add Countdown a new countdown timer will appear with name and years/months/days/hours/minutes/seconds left to the specified date;</li>
   <li>For extra visualization there will be a filling circle filling around each item, except for years;</li>
   <li>Once the countdown reaches 0 it will be automatically removed;</li>
-  <li>User can optionally remove countdown by clicking at "X" in the top-right corner of the countdown element;</li>
+  <li>Countdown can be removed by clicking on "X" in the top-right corner of the countdown element;</li>
   <li>There is no limit on how many countdowns can be added;</li>
   <li>Countdowns are stored in Web Storage "localstorage" object;</li>
-  <li>Countdowns will be automatically sorted in ascending order.</li>
+  <li>Countdowns will be automatically sorted in chronological order.</li>
 </ul>
