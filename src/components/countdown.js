@@ -42,21 +42,6 @@ export default class Countdown extends React.Component {
     }
   }
 
-//  millisecToDate = timeLeft => {
-//    let tLeft = timeLeft;
-//    this.years = Math.floor(tLeft / 31104000000);
-//    tLeft -= this.years * 31104000000;
-//    this.months = Math.floor(tLeft / 2592000000);
-//    tLeft -= this.months * 2592000000;
-//    this.days = Math.floor(tLeft / 86400000);
-//    tLeft -= this.days * 86400000;
-//    this.hours = Math.floor(tLeft / 3600000);
-//    tLeft -= this.hours * 3600000;
-//    this.min = Math.floor(tLeft / 60000);
-//    tLeft -= this.min * 60000;
-//    this.sec = Math.floor(tLeft / 1000);
-//  }
-
 // check if "year" is a leap year
   checkLeapYear(year) {
   // each month days in milliseconds
